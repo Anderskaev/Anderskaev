@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-![Angular](https://img.shields.io/badge/angular-red?logo=angular)
-![MySql](https://img.shields.io/badge/mysql-white?logo=mysql)
-![PHP](https://img.shields.io/badge/php-blue?logo=php)
+![Angular](https://img.shields.io/badge/Angular-red?logo=angular)
+![MySql](https://img.shields.io/badge/MySQL-white?logo=mysql)
+![PHP](https://img.shields.io/badge/PHP-white?logo=php)
 <!--
 **Anderskaev/Anderskaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
