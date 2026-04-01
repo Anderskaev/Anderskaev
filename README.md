@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[!Angular](https://img.shields.io/badge/angular-red?logo=angular)
+![Angular](https://img.shields.io/badge/angular-red?logo=angular)
 
 <!--
 **Anderskaev/Anderskaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
