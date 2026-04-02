@@ -1,8 +1,8 @@
-## About me 
+## :wave: About me 
 
 Hi! I'm Vlad. My circle to IT was very interesting.
 
-## My career
+## :computer: My career
 
 - 2004-2004 Technical support engeneer Sakha Neftegaz LTD
 
@@ -27,8 +27,9 @@ Hi! I'm Vlad. My circle to IT was very interesting.
   ![LUA](https://img.shields.io/badge/Lua-blue?logo=lua)
   ![FreeBSD](https://img.shields.io/badge/FreeBSD-red?logo=freebsd)
 - 2012-2024 Administrative stuff at Ministry of Yakutia Government
+- 2024 Investor, freelancer
 
-## My education
+## :books: My education
 ### High education
 - 2008 Yakutsk Engineering and Technical Institute, Engeneer of software for computing equipment and automated systems
 - 2021 Тon-governmental private educational institution of additional professional education "INTUIT", Engeneer of professional Web-development
@@ -38,7 +39,9 @@ Hi! I'm Vlad. My circle to IT was very interesting.
 - 2020 Introduction to Web standarts
 - 2020 HTML5. Basics of development
 
-## My hobby
+## :seedling: Learning now
+
+## :hourglass_flowing_sand: My hobbies
 
 ![Angular](https://img.shields.io/badge/Angular-red?logo=angular)
 ![MySql](https://img.shields.io/badge/MySQL-white?logo=mysql)
@@ -46,6 +49,17 @@ Hi! I'm Vlad. My circle to IT was very interesting.
 ![Arduino](https://img.shields.io/badge/Arduino-green?logo=arduino)
 ![Delphi](https://img.shields.io/badge/Delphi-blue?logo=delphi)
 
+## :zap: Interesting facts
+
+- I have 4 kids
+- Once I built a frame house on my own
+- My PR in bench press is 135 kg (297 lbs)
+  
+
+## :mailbox: My contacts 
+
+E-mail: v.anderskaev@gmail.com
+Web: comming soon
 
 <!--
 **Anderskaev/Anderskaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
