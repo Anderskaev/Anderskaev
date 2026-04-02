@@ -43,8 +43,11 @@ Currently focused on fullstack web development and looking for a team to grow wi
   - **2020** HTML5. Basics of development
 
 </details>
-
+<details>
+<summary>
+  
 ## :computer: My career
+</summary>
 
   - **2004-2004** Technical support engineer Sakha Neftegaz LTD
 
@@ -70,8 +73,13 @@ Currently focused on fullstack web development and looking for a team to grow wi
     ![FreeBSD](https://img.shields.io/badge/FreeBSD-red?logo=freebsd)
   - **2012-2024** Administrative stuff at Ministry of Yakutia Government
   - **2024** Investor, freelancer, Life enjoying  
+</details>
+<details>
+<summary>
 
 ## :seedling: Learning now
+
+</summary>
 
   - Python
   - Angular
@@ -79,6 +87,7 @@ Currently focused on fullstack web development and looking for a team to grow wi
   - CI/CD
   - Testing routines
   - Git
+</details>
 
 ## :dart: Goals
 
