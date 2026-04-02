@@ -8,6 +8,8 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 
+---
+
 ## :wave: About
 
 Started coding at 10 (Basic, Pascal). Graduated with honors in software engineering, spent years building automation systems and managing IT infrastructure. Then took a 12-year detour into government administration, and now I'm back, building things again.
