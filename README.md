@@ -48,7 +48,11 @@ Hi! I'm Vlad. My circle aroud IT was very interesting. Seems Im born to be progr
   - Testing routines
   - Git
 
-## :goal: Goals
+## :dart: Goals
+
+  - Return to IT (at least as Senior developer)
+  - Make my own succesfull Startup
+  - Move to my dream place (secret yet)
 
 ## :hourglass_flowing_sand: My hobbies
 
