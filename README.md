@@ -56,9 +56,9 @@ Besides IT, I have many interests, from sports to gardening. Of course, I'm not 
 
   - I have 4 kids
   - Once I built a house on my own
-  - My PR in bench press is 135 kg (297 lbs)
   - I like riding bicycle
-  - I like Guiness and Irish folk music
+  - My PR in bench press is 135 kg (297 lbs)
+  - I love Guiness and Irish folk music
 
 ## :mailbox: My contacts 
 
