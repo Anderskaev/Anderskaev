@@ -7,17 +7,13 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-
 ---
 
 <details open>
 <summary>
   
 ## :wave: About
-
 </summary>
-  
-
   
 Started coding at 10 (Basic, Pascal). Graduated with honors in software engineering, spent years building automation systems and managing IT infrastructure. Then took a 12-year detour into government administration, and now I'm back, building things again.
 
@@ -29,9 +25,7 @@ Currently focused on fullstack web development and looking for a team to grow wi
 <summary>
 
 ## :books: My education
-
 </summary>
-
 
 ### High education
   - **2008** Yakutsk Engineering and Technical Institute, Engeneer of software for computing equipment and automated systems
@@ -43,6 +37,7 @@ Currently focused on fullstack web development and looking for a team to grow wi
   - **2020** HTML5. Basics of development
 
 </details>
+
 <details>
 <summary>
   
@@ -74,11 +69,11 @@ Currently focused on fullstack web development and looking for a team to grow wi
   - **2012-2024** Administrative stuff at Ministry of Yakutia Government
   - **2024** Investor, freelancer, Life enjoying  
 </details>
+
 <details>
 <summary>
 
 ## :seedling: Learning now
-
 </summary>
 
   - Python
@@ -89,17 +84,31 @@ Currently focused on fullstack web development and looking for a team to grow wi
   - Git
 </details>
 
+<details>
+<summary>
+
 ## :dart: Goals
+</summary>
 
   - Return to IT (at least as Senior developer)
   - Make my own succesfull Startup
   - Move to my dream place (secret yet)
+</details>
+
+<details>
+<summary>
 
 ## :hourglass_flowing_sand: My hobbies
+</summary>
 
 Besides IT, I have many interests, from sports to gardening. Of course, I'm not good at everything (I still haven't grown an apple from seed), but I love learning new things and putting my newfound knowledge into practice. One of my favorite hobbies is crafting (DIY): I make a lot of things with my own hands at home, help my kids with their school projects, and create props for the holiday events I organize myself for my family.
+</details>
+
+<details>
+<summary>
 
 ## :zap: Interesting facts
+</summary>
 
   - I have 4 kids
   - Once I built a house on my own
@@ -108,11 +117,17 @@ Besides IT, I have many interests, from sports to gardening. Of course, I'm not 
   - I love Guiness and Irish folk music
   - Quit smoking after 15 years
   - Spent 1 year as exchange student
+</details>
+
+<details open>
+<summary>
 
 ## :mailbox: My contacts 
+</summary>
 
 E-mail: v.anderskaev@gmail.com
 
 Telegram: @Anderskaev
 
 Web: comming soon
+</details>
