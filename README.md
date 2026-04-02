@@ -12,14 +12,16 @@
 
 <details>
 <summary>
-## :wave: About
+:wave: About
 </summary>
+## :wave: About
   
 Started coding at 10 (Basic, Pascal). Graduated with honors in software engineering, spent years building automation systems and managing IT infrastructure. Then took a 12-year detour into government administration, and now I'm back, building things again.
 
 Currently focused on fullstack web development and looking for a team to grow with.
 
 </details>
+
 ## :books: My education
 
 ### High education
