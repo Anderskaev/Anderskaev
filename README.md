@@ -29,11 +29,11 @@ Hi! I'm Vlad. My circle to IT was very interesting.
 - 2012-2024 Administrative stuff at Ministry of Yakutia Government
 
 ## My education
-
+### High education
 - 2008 Yakutsk Engineering and Technical Institute, Engeneer of software for computing equipment and automated systems
 - 2021 Тon-governmental private educational institution of additional professional education "INTUIT", Engeneer of professional Web-development
 
-## Advanced trainings (official, with diplomas)
+### Advanced trainings (official, with diplomas)
 - 2012 Microsoft Windows Server 2003 administrator
 - 2020 Introduction to Web standarts
 - 2020 HTML5. Basics of development
