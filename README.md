@@ -85,4 +85,6 @@ Besides IT, I have many interests, from sports to gardening. Of course, I'm not 
 
 E-mail: v.anderskaev@gmail.com
 
+Telegram: @Anderskaev
+
 Web: comming soon
