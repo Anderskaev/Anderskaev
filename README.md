@@ -1,8 +1,15 @@
 ## :wave: About me 
 
-Hi! I'm Vlad. My circle aroud IT was very interesting. Seems Im born to be programmer. I've started writing code (Basic, Pascal) at about 10 yo. 
+  Hi! My name is Vlad. My social circle in IT was very interesting. I think I was born a programmer. I started coding (Basic, Pascal) at about 10 years old. I've been working in IT since my second year. I eventually graduated with honors. Of course, I could write in almost any language (Object Pascal, C++, Lua, LISP, PHP, even a little assembly), manage FreeBSD (NAT, HTTP server, MySQL, etc.), Solaris OS (Oracle), and knew how to build a local network with Windows and Linux machines (MS Active Directory, Samba, LDAP). I already had experience managing a small department at my institute. 
+
+  But it was not big enought for me. So I've found a job I thoung was my dream. It was engineer (actually IT guy) at Ministry of Yakutia Government. I put all my knowlege on practice: was managing LAN (100+ PC, few servers), creating databases (MSSQL), programming automation applications (ADO, COM, Delphi), there were lots of space to IT improvement. And I was doing my best.
+  
+  Eventually, I've found out that Im doing almost same things, and won't grow any more. Neither as a person nor as a specialist. Actually, I was pointed on this, like "If you want to make career in this organization you should change your direction to administrative stuff". After little thinking I've chosen career, to grow and to be successful. So I had to get new skills, far from IT. Sure, I was implemeting my old knowlege form time to time, but it wasn't enought even to keep them actual. 
+
+  My new specialization
 
 ## :books: My education
+
 ### High education
   - **2008** Yakutsk Engineering and Technical Institute, Engeneer of software for computing equipment and automated systems
   - **2021** Тon-governmental private educational institution of additional professional education "INTUIT", Engeneer of professional Web-development
@@ -65,6 +72,7 @@ Besides IT, I have many interests, from sports to gardening. Of course, I'm not 
   - I like riding bicycle
   - My PR in bench press is 135 kg (297 lbs)
   - I love Guiness and Irish folk music
+  - Quit smoking after 15 years
 
 ## :mailbox: My contacts 
 
