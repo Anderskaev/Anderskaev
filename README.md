@@ -4,19 +4,19 @@ Hi! I'm Vlad. My circle aroud IT was very interesting. Seems Im born to be progr
 
 ## :books: My education
 ### High education
-  - 2008 Yakutsk Engineering and Technical Institute, Engeneer of software for computing equipment and automated systems
-  - 2021 Тon-governmental private educational institution of additional professional education "INTUIT", Engeneer of professional Web-development
+  - **2008** Yakutsk Engineering and Technical Institute, Engeneer of software for computing equipment and automated systems
+  - **2021** Тon-governmental private educational institution of additional professional education "INTUIT", Engeneer of professional Web-development
 
 ### Advanced trainings (official, with diplomas)
-  - 2012 Microsoft Windows Server 2003 administrator
-  - 2020 Introduction to Web standarts
-  - 2020 HTML5. Basics of development
+  - **2012** Microsoft Windows Server 2003 administrator
+  - **2020** Introduction to Web standarts
+  - **2020** HTML5. Basics of development
 
 ## :computer: My career
 
-  - 2004-2004 Technical support engeneer Sakha Neftegaz LTD
+  - **2004-2004** Technical support engineer Sakha Neftegaz LTD
 
-  - 2005-2008 Junior, Senior developer, Head of IT Unit at Yakutsk Engineering and Technical Institute
+  - **2005-2008** Junior, Senior developer, Head of IT Unit at Yakutsk Engineering and Technical Institute
 
     ![FreeBSD](https://img.shields.io/badge/FreeBSD-red?logo=freebsd)
     ![PHP](https://img.shields.io/badge/PHP-white?logo=php)
@@ -24,11 +24,11 @@ Hi! I'm Vlad. My circle aroud IT was very interesting. Seems Im born to be progr
     ![Moodle](https://img.shields.io/badge/Moodle-white?logo=moodle)
     ![Joomla](https://img.shields.io/badge/Joomla-white?logo=joomla)
 
-  - 2006-2008 Lead ingeneer at IT department of Yakutsk Administration
+  - **2006-2008** Lead engineer at IT department of Yakutsk Administration
   
     ![MSSQL](https://img.shields.io/badge/MSSQL-blue?logo=sqlite)
     ![Delphi](https://img.shields.io/badge/Delphi-blue?logo=delphi)
-  - 2008-2012 Own automation engeneer, developer, LAN administrator, support at Ministry of Yakutia Government
+  - **2008-2012** Own automation engineer, developer, LAN administrator, support at Ministry of Yakutia Government
   
     ![MSSQL](https://img.shields.io/badge/MSSQL-blue?logo=sqlite)
     ![MySql](https://img.shields.io/badge/MySQL-white?logo=mysql)
@@ -36,8 +36,8 @@ Hi! I'm Vlad. My circle aroud IT was very interesting. Seems Im born to be progr
     ![PHP](https://img.shields.io/badge/PHP-white?logo=php)
     ![LUA](https://img.shields.io/badge/Lua-blue?logo=lua)
     ![FreeBSD](https://img.shields.io/badge/FreeBSD-red?logo=freebsd)
-  - 2012-2024 Administrative stuff at Ministry of Yakutia Government
-  - 2024 Investor, freelancer  
+  - **2012-2024** Administrative stuff at Ministry of Yakutia Government
+  - **2024** Investor, freelancer, Life enjoying  
 
 ## :seedling: Learning now
 
@@ -47,6 +47,8 @@ Hi! I'm Vlad. My circle aroud IT was very interesting. Seems Im born to be progr
   - CI/CD
   - Testing routines
   - Git
+
+## :goal: Goals
 
 ## :hourglass_flowing_sand: My hobbies
 
