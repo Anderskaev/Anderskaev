@@ -20,7 +20,6 @@ Started coding at 10 (Basic, Pascal). Graduated with honors in software engineer
 Currently focused on fullstack web development and looking for a team to grow with.
 
 </details>
-
 <details>
 <summary>
 
