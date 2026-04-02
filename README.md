@@ -4,8 +4,8 @@ Hi! I'm Vlad. My circle to IT was very interesting.
 
 ## My career
 
-2005-2008 Junior, Senior developer, Head of IT Unit at Yakutian state ingeneer-technical institute ![PHP](https://img.shields.io/badge/PHP-white?logo=php)![MySql](https://img.shields.io/badge/MySQL-white?logo=mysql)![Moodle](https://img.shields.io/badge/Moodle-orange?logo=moodle)![Joomla](https://img.shields.io/badge/Joomla-blue?logo=joomla)
-2006-2008 Lead ingeneer at IT department at Administration of Yakutsk ![MSSQL](https://img.shields.io/badge/MSSQL-white?logo=sql)![Delphi](https://img.shields.io/badge/Delphi-blue?logo=delphi)
+- 2005-2008 Junior, Senior developer, Head of IT Unit at Yakutian state ingeneer-technical institute ![PHP](https://img.shields.io/badge/PHP-white?logo=php)![MySql](https://img.shields.io/badge/MySQL-white?logo=mysql)![Moodle](https://img.shields.io/badge/Moodle-white?logo=moodle)![Joomla](https://img.shields.io/badge/Joomla-white?logo=joomla)
+- 2006-2008 Lead ingeneer at IT department at Administration of Yakutsk ![MSSQL](https://img.shields.io/badge/MSSQL-white?logo=sqlite)![Delphi](https://img.shields.io/badge/Delphi-blue?logo=delphi)
 
 ## My education
 
