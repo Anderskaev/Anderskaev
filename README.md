@@ -10,7 +10,7 @@
 
 ---
 
-<details>
+<details open>
 <summary>
   
 ## :wave: About
@@ -25,7 +25,13 @@ Currently focused on fullstack web development and looking for a team to grow wi
 
 </details>
 
+<details>
+<summary>
+
 ## :books: My education
+
+</summary>
+
 
 ### High education
   - **2008** Yakutsk Engineering and Technical Institute, Engeneer of software for computing equipment and automated systems
@@ -35,6 +41,8 @@ Currently focused on fullstack web development and looking for a team to grow wi
   - **2012** Microsoft Windows Server 2003 administrator
   - **2020** Introduction to Web standarts
   - **2020** HTML5. Basics of development
+
+</details>
 
 ## :computer: My career
 
