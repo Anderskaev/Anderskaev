@@ -3,10 +3,12 @@
 Hi! I'm Vlad. My circle to IT was very interesting.
 
 ## My career
-
-- 2004-2004 Technical support engeneer Sakha Neftegaz LTD
+  
   ```
-- 2005-2008 Junior, Senior developer, Head of IT Unit at Yakutsk Engineering and Technical Institute
+  2004-2004 Technical support engeneer Sakha Neftegaz LTD
+  ```
+  ```
+  2005-2008 Junior, Senior developer, Head of IT Unit at Yakutsk Engineering and Technical Institute
   
   ![PHP](https://img.shields.io/badge/PHP-white?logo=php)![MySql](https://img.shields.io/badge/MySQL-white?logo=mysql)![Moodle](https://img.shields.io/badge/Moodle-white?logo=moodle)![Joomla](https://img.shields.io/badge/Joomla-white?logo=joomla)
   ```
