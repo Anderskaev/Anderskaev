@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-![Angular](https://img.shields.io/badge/Angular-red?logo=angular)
+![Angular](https://img.shields.io/badge/Angular-white?logo=angular)
 ![MySql](https://img.shields.io/badge/MySQL-white?logo=mysql)
 ![PHP](https://img.shields.io/badge/PHP-white?logo=php)
+![Arduino](https://img.shields.io/badge/Arduino-white?logo=arduino)
+![Delphi](https://img.shields.io/badge/Delphi-white?logo=delphi)
+
+
 <!--
 **Anderskaev/Anderskaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
