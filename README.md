@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-![Angular](https://img.shields.io/badge/Angular-white?logo=angular)
+![Angular](https://img.shields.io/badge/Angular-red?logo=angular)
 ![MySql](https://img.shields.io/badge/MySQL-white?logo=mysql)
 ![PHP](https://img.shields.io/badge/PHP-white?logo=php)
 ![Arduino](https://img.shields.io/badge/Arduino-white?logo=arduino)
-![Delphi](https://img.shields.io/badge/Delphi-white?logo=delphi)
+![Delphi](https://img.shields.io/badge/Delphi-blue?logo=delphi)
 
 
 <!--
