@@ -1,12 +1,9 @@
 ## :wave: About me 
 
-  Hi! My name is Vlad. My social circle in IT was very interesting. I think I was born a programmer. I started coding (Basic, Pascal) at about 10 years old. I've been working in IT since my second year. I eventually graduated with honors. Of course, I could write in almost any language (Object Pascal, C++, Lua, LISP, PHP, even a little assembly), manage FreeBSD (NAT, HTTP server, MySQL, etc.), Solaris OS (Oracle), and knew how to build a local network with Windows and Linux machines (MS Active Directory, Samba, LDAP). I already had experience managing a small department at my institute. 
+Started coding at 10 (Basic, Pascal). Graduated with honors in software engineering, spent years building automation systems and managing IT infrastructure. Then took a 12-year detour into government administration — and now I'm back, building things again.
 
-  But it was not big enought for me. So I've found a job I thoung was my dream. It was engineer (actually IT guy) at Ministry of Yakutia Government. I put all my knowlege on practice: was managing LAN (100+ PC, few servers), creating databases (MSSQL), programming automation applications (ADO, COM, Delphi), there were lots of space to IT improvement. And I was doing my best.
-  
-  Eventually, I've found out that Im doing almost same things, and won't grow any more. Neither as a person nor as a specialist. Actually, I was pointed on this, like "If you want to make career in this organization you should change your direction to administrative stuff". After little thinking I've chosen career, to grow and to be successful. So I had to get new skills, far from IT. Sure, I was implemeting my old knowlege form time to time, but it wasn't enought even to keep them actual. 
-
-  My new specialization
+Currently focused on fullstack web development and looking for a team to grow with.
+ 
 
 ## :books: My education
 
