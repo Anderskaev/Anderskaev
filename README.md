@@ -17,11 +17,18 @@ Started coding at 10 (Basic, Pascal). Graduated with honors in software engineer
 
 Currently focused on fullstack web development and looking for a team to grow with.
 
+## :mailbox: My contacts 
+
+E-mail: v.anderskaev@gmail.com
+
+Telegram: @Anderskaev
+
+Web: comming soon
 
 <details>
 <summary>
 
-## Details
+## More details
 </summary>
 
 ## :books: My education
@@ -91,11 +98,3 @@ Besides IT, I have many interests, from sports to gardening. Of course, I'm not 
   - Quit smoking after 15 years
   - Spent 1 year as exchange student
 </details>
-
-## :mailbox: My contacts 
-
-E-mail: v.anderskaev@gmail.com
-
-Telegram: @Anderskaev
-
-Web: comming soon
