@@ -23,7 +23,7 @@ E-mail: v.anderskaev@gmail.com
 
 Telegram: @Anderskaev
 
-Web: comming soon
+Web: [Anderskaev.ru](https://anderskaev.ru)
 
 <details>
 <summary>
